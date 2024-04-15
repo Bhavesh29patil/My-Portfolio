@@ -65,7 +65,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="">Hello, I'm </span>
+        <span className="">Hello, I&apos;m </span>
         <span className="font-bold dark:text-red-200 text-gray-800">
           <Typewriter
             words={["BHAVESH", "Full-Stack Web Developer"]}

@@ -66,8 +66,8 @@ export const educationData = [
     title: "PICT - Pune Institute of Computer Technology",
     body: "Savitribai Phule Pune University (SPPU)",
     description:
-      "I'm Pre-Final year student pursuing Bachelors in Engineeering in Information Technology ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
-    points: ["CGPA : 9.14 / 10"],
+      "I'm a Final year student pursuing Bachelors in Engineeering in Information Technology ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+    points: ["CGPA : 9.28 / 10"],
     icon: React.createElement(LuGraduationCap),
     date: "2021 - 2025",
   },
